@@ -20,7 +20,7 @@ Créditos al profe Hacker y mi Cerebro.
 
 ## Licencia
 
-Emilio Saldaña
+Emilio Saldaña Salinas (200675) TIC'S 10ºB
 
 ## Contacto
 
